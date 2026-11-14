@@ -1,0 +1,32 @@
+{
+ "edition": "2026-11-14 film, built from the product's newest real screens",
+ "film": {
+  "duration_seconds": 23.0,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "audio": "silent",
+  "readme_loop": "0.0-23.0 s of the film",
+  "mp4": "review encode of the master (H.264 CRF 24, faststart)"
+ },
+ "qualification": "The app run locally with its own backend and scratch databases. Only the project's own scanned materials are used; no photo.",
+ "note": "",
+ "master_sha256": "f654cc7e961adb172a61174f13272bd7dcdf50fab45ca556bca170b75fbea462",
+ "files": {
+  "mp4": {
+   "path": "assets/sakku-promo-20261114.mp4",
+   "bytes": 1258515,
+   "sha256": "8562601f5bf75f18dec64dba79133e56ed13f5b0adcc77f33fb018108657657d"
+  },
+  "gif": {
+   "path": "assets/sakku-promo-20261114.gif",
+   "bytes": 1790341,
+   "sha256": "58ced6029cf35eaa247c9af13b74ea9291ce8f9acd2bb0a66d1d573090f9c8a3"
+  },
+  "poster": {
+   "path": "assets/sakku-promo-20261114-poster.png",
+   "bytes": 1673913,
+   "sha256": "d05973f2b485f315f9dbda637633a3ed620116fef4e1078426581fb02c7c4672"
+  }
+ }
+}
